@@ -1,2 +1,6 @@
 **/__pycache__
 .vscode
+grafana/.DS_Store
+grafana/provisioning/.DS_Store
+grafana/provisioning/dashboards/.DS_Store
+.DS_Store
